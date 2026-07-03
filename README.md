@@ -117,7 +117,7 @@ This visualization highlights sales generated across different states.
 
 ## 👨‍👩‍👧 Age & Gender Analysis
 
-![Age & Gender](images/06_Age_Gender.png.png)
+![Age & Gender](images/06_Age_&_Gender.png.png)
 
 This visualization analyzes purchasing behavior across different age groups while comparing male and female customers.
 
