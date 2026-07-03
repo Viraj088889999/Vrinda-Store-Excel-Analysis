@@ -127,7 +127,7 @@ This visualization analyzes purchasing behavior across different age groups whil
 
 ## 🛒 Sales Channel Analysis
 
-![Sales Channel](images/07_Sales_Channel.png.png)
+![Sales Channel](images/07_Order_Channels.png.png)
 
 This chart compares sales across different sales channels.
 
